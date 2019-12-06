@@ -4,6 +4,8 @@ Course Advisor is a web portal for the students from the school of IT at the Uni
 
 ## Features
 
+**Video introducing Course Advisor** : https://www.youtube.com/watch?v=d6zC0sjCoO0
+
 * Recommend courses based on interests and specialisation
 * User Account and Settings
 * Different Role Access Control for Students and Faculty Members
@@ -50,7 +52,7 @@ Faculty members account can only access to Courses & Ratings module. They will h
 The following applications must be available on the Operating PC to run this project.
 
 * Eclipse JEE with Maven plugin
-* http://www.oracle.com/technetwork/java/javase/downloads/index.html[JDK 8] or later
+* JDK 8 or later
 * Apache Tomcat v8.5 or later
 * MySQL Workbench Version Build 8.0.18
 
