@@ -9,44 +9,42 @@ Course Advisor is a web portal for the students from the school of IT at the Uni
 * Different Role Access Control for Students and Faculty Members
 * Search courses
 * View course details, ratings, and feedbacks
-
-(Only for Student)
-* View completed credits, remaining credits, and completed courses
-* Track status of feedback survey completion
-* Able to take feedback for courses taken
+* View completed credits, remaining credits, and completed courses (Only for Student)
+* Track status of feedback survey completion (Only for Student)
+* Able to take feedback for courses taken (Only for Student)
 
 ### Login and Registration
 
-<p align="center"><img src="./images/Login.png" width="600"></p>
-<p align="center"><img src="./images/Register.png" width="600"></p>
+<p align="center"><img src="./images/Login.png" width="700"></p>
+<p align="center"><img src="./images/Register.png" width="700"></p>
 
 For initial login, user has to set their interest and career objective
-<p align="center"><img src="./images/initial_setting.png" width="600"></p>
+<p align="center"><img src="./images/Initial_setting.png" width="700"></p>
 
 User can change their settings later in the User Setting page
-<p align="center"><img src="./images/User_setting.png" width="600"></p>
+<p align="center"><img src="./images/User_setting.png" width="700"></p>
 
 ### Dashboard (For student only)
-
-<p align="center"><img src="./images/Dashboard.png" width="600"></p>
+Student can view their completed credits and courses, and the remaining credits to complete their degree in the Dashboard.
+<p align="center"><img src="./images/Dashboard.png" width="700"></p>
 
 ### Courses & Ratings
-Courses shown are recommended courses for users based on their interests and specilisation configured in the user setting
-<p align="center"><img src="./images/Courses_Rating.png" width="600"></p>
+Courses shown are recommended courses for users based on their interests and specilisation configured in the user setting.
+<p align="center"><img src="./images/Courses_Rating.png" width="700"></p>
 
-Course detail page
-<p align="center"><img src="./images/Course_details1.png" height="300"> <img src="./images/Course_details2.png" height="300"></p>
+Each course detail page contains information related to the course, external link to official webpage with full details, overall ratings, and reviews from students who have taken the course.
+<p align="center"><img src="./images/Course_details1.png" height="350"> <img src="./images/Course_details2.png" height="250"></p>
 
 ### Feedback Survey (For student only)
-View feedback survey completion status
-<p align="center"><img src="./images/Feedback_survey.png" width="600"></p>
+Student can view their feedback survey completion status,
+<p align="center"><img src="./images/Feedback_survey.png" width="700"></p>
 
-Take survey questions
-<p align="center"><img src="./images/Course_feedback.png" width="600"></p>
+And take the incomplete survey
+<p align="center"><img src="./images/Course_feedback.png" width="700"></p>
 
 ### Access for Faculty Members
-Faculty members account can only access to Courses & Ratings module.
-<p align="center"><img src="./images/Prof_access.png" width="600"></p>
+Faculty members account can only access to Courses & Ratings module. They will have no access to dashboard and feedback modules.
+<p align="center"><img src="./images/Prof_access.png" width="700"></p>
 
 ## Prerequisites
 The following applications must be available on the Operating PC to run this project.
